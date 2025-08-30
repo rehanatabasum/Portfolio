@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "healthcare-analytics-chatbot",
+    "title": "Healthcare Analytics Dashboard",
+    "summary": "Analyzed patient records to monitor vitals, detect anomalies, and visualize KPIs.",
+    "tags": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Anomaly Detection"
+    ],
+    "thumbnail": "static/images/p1.jpg",
+    "links": {
+      "repo": "",
+      "demo": "",
+      "report": ""
+    }
+  },
+  {
+    "slug": "netflix-recommendation-system",
+    "title": "Recommendation System",
+    "summary": "Developed a personalized movie recommendation system using collaborative filtering and matrix factorization techniques to enhance user experience and engagement.",
+    "tags": [
+      "Python",
+      "Machine Learning",
+      "Recommender Systems",
+      "Data Analysis"
+    ],
+    "thumbnail": "static/images/p2.jpg",
+    "links": {
+      "repo": "",
+      "demo": "",
+      "report": ""
+    }
+  },
+  {
+    "slug": "hand-track-color-cursor",
+    "title": "Hand Tracking & Color-Based Cursor",
+    "summary": "Implemented a real-time hand tracking system that detects hand gestures and controls the mouse cursor using color-based detection and OpenCV, enhancing interactive applications.",
+    "tags": [
+      "Python",
+      "Computer Vision",
+      "OpenCV",
+      "Real-Time Interaction"
+    ],
+    "thumbnail": "static/images/p3.jpeg",
+    "links": {
+      "repo": "",
+      "demo": "",
+      "report": ""
+    }
+  },
+  {
+    "slug": "handwriting-recognition",
+    "title": "Handwriting Recognition System",
+    "summary": "Developed a machine learning-based system to recognize and digitize handwritten text from images, improving accuracy with preprocessing and feature extraction techniques.",
+    "tags": [
+      "Python",
+      "Machine Learning",
+      "Computer Vision",
+      "OCR"
+    ],
+    "thumbnail": "static/images/p4.jpeg",
+    "links": {
+      "repo": "",
+      "demo": "",
+      "report": ""
+    }
+  },
+  {
+    "slug": "ecommerce-platform",
+    "title": "E-Commerce Platform",
+    "summary": "Built a full-stack e-commerce web application with product management, shopping cart, and payment integration for seamless online shopping experience.",
+    "tags": [
+      "Python",
+      "Django",
+      "SQL",
+      "Web Development"
+    ],
+    "thumbnail": "static/images/p5.jpeg",
+    "links": {
+      "repo": "",
+      "demo": "",
+      "report": ""
+    }
+  },
+  {
+    "slug": "voice-command-code-executor",
+    "title": "Voice Command Code Executor",
+    "summary": "Created a system that executes Python code based on voice commands, combining speech recognition and dynamic code execution for hands-free programming.",
+    "tags": [
+      "Python",
+      "Speech Recognition",
+      "Automation"
+    ],
+    "thumbnail": "static/images/p6.jpg",
+    "links": {
+      "repo": "",
+      "demo": "",
+      "report": ""
+    }
+  },
+  {
+    "slug": "webcam-eye-control",
+    "title": "Webcam-Based Eye Control",
+    "summary": "Developed an eye-tracking system using webcam input to control the mouse cursor and interface, assisting users with accessibility needs.",
+    "tags": [
+      "Python",
+      "OpenCV",
+      "Computer Vision",
+      "Accessibility"
+    ],
+    "thumbnail": "static/images/p7.jpeg",
+    "links": {
+      "repo": "",
+      "demo": "",
+      "report": ""
+    }
+  },
+  {
+    "slug": "ev-chatbot-pak-wheels",
+    "title": "Electric Vehicle Chatbot",
+    "summary": "Built an interactive chatbot for PakWheels to guide users on electric vehicle features, pricing, and recommendations, enhancing customer support and engagement.",
+    "tags": [
+      "Python",
+      "Chatbot",
+      "NLP",
+      "Customer Support"
+    ],
+    "thumbnail": "static/images/p8.jpeg",
+    "links": {
+      "repo": "",
+      "demo": "",
+      "report": ""
+    }
+  }
+]

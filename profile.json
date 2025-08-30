@@ -1,0 +1,122 @@
+{
+  "name": "Rehana Tabasum",
+  "initials": "RehanaT ",
+  "role": " | Data Analyst ",
+  "headline": "Data Analyst | Turning Data into Actionable Insights",
+  "tagline": "I am passionate about transforming complex datasets into clear, actionable business insights. Leveraging Python, SQL, and visualization tools like Power BI, I build analytics pipelines, dashboards, and machine learning models that drive strategic decision-making. From cleaning and modeling data to storytelling with impactful visuals, I bridge the gap between raw information and business outcomes, helping organizations make smarter, data-driven decisions.",
+  "about_short": "I specialize in transforming raw data into clear business stories through analytics, dashboards, and ML-driven insights. Skilled in both backend data wrangling and front-end visualization, I bridge the gap between data and decision-making.",
+  "about_long": "I am a data analyst dedicated to transforming complex data into actionable insights that drive real business impact. Skilled in Python (pandas, numpy, matplotlib, scikit-learn), SQL, and Power BI, I build end-to-end analytics solutions from data cleaning and modeling to advanced visualization and storytelling dashboards. My work includes anomaly detection pipelines, forecasting models, and executive-ready dashboards that enable leaders to make informed decisions with confidence. I thrive at the intersection of analytics and communication, turning raw data into clear, measurable results.",
+  "email": "rehanatabasumt@gmail.com",
+  "location": "Karachi, Pakistan",
+  "socials": [
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rehana-tabasum-28054a280/"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/rehanatabasum"
+    },
+    {
+      "title": "Kaggle",
+      "url": "https://www.kaggle.com/rehana-t"
+    },
+    {
+      "title": "Email",
+      "url": "rehanatabasumt@gmail.com"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming & Querying",
+      "items": [
+        "Python",
+        "SQL ",
+        "C++",
+        "OOP"
+      ]
+    },
+    {
+      "category": "Libraries & Frameworks",
+      "items": [
+        "pandas",
+        "numpy",
+        "matplotlib",
+        "plotly",
+        "scikit-learn"
+      ]
+    },
+    {
+      "category": "BI & Visualization",
+      "items": [
+        "Power BI",
+        "Excel (Advanced)",
+        "Tableau (basic)"
+      ]
+    },
+    {
+      "category": "Data Workflows",
+      "items": [
+        "ETL Pipelines",
+        "Data Cleaning",
+        "Feature Engineering",
+        "EDA (Exploratory Data Analysis)"
+      ]
+    },
+    {
+      "category": "Machine Learning (Foundations)",
+      "items": [
+        "Regression",
+        "Classification",
+        "Clustering",
+        "Time Series Forecasting"
+      ]
+    },
+    {
+      "category": "Other Tools",
+      "items": [
+        "Git & GitHub",
+        "Jupyter Notebooks",
+        "Google Colab",
+        "Cloud (Azure basics)"
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "BS in Computer Science (Final Year)",
+      "institute": "NED University of Engineering & Technology",
+      "years": "2022–2026"
+    }
+  ],
+  
+"certifications": [
+  "Publication of Article: Impact of General Election — International Platforms (2024)",
+  "Best Performance Award — South City School, Mithi (2022)",
+  "Best Hostess — ICCSA International Conference, NED University (2023)",
+  "Certification of Appreciation — Pakistan Press News (2023)",
+  "NED University 4-Year Scholarship — NED University of Engineering & Technology (2022–2026)",
+  "Award for Participation: Invert for the Planet — International Organization (2024)",
+  "Best Volunteer & Hostess at Sports Gala — NED University of Engineering & Technology (2023)"
+],
+
+  "core_skills": [
+    {
+      "name": "Python",
+      "level": "Advanced"
+    },
+    {
+      "name": "SQL",
+      "level": "Advanced"
+    },
+    {
+      "name": "Power BI",
+      "level": "Advanced"
+    },
+    {
+      "name": "Machine Learning",
+      "level": "Advanced"
+    }
+  ]
+}
